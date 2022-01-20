@@ -1,0 +1,1 @@
+atributo required no input, faz a validacao do mesmo conforme seu tipo, se o input for do tipo email, <input type="email" required>, o mesmo só sera submetido se for um email, e assim com os demais tipos, exemplo, <input type="password" required>, as informacoes somente serao submetidas se for inserido uma senha no input.

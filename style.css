@@ -1,0 +1,21 @@
+div{
+    margin: 0;
+    background-color: #EEE;
+}
+
+form{
+    border: 1px solid #000;
+    width: 180px;
+    padding: 10px;
+    display: block;
+    margin-left: 40%;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin: auto;
+    background-color: #ddd;
+}
+.btEnviar{
+    margin-top: 10px;
+    width: 178px;
+    margin-bottom: 5px;
+}
